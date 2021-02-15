@@ -10,7 +10,7 @@ create table tblpessoas (
     pestelefonecelular varchar(15) not null
 );
 
-insert into tblpessoas (pesnome, pesemail, pestelefonefixo, pestelefonecelular) values ("Luan", "luan.queiroz@gmail.com", "(19)99523-0386", "(19)99523-0386");
+insert into tblpessoas (pesnome, pesemail, pestelefonefixo, pestelefonecelular) values ("Luan", "luan.queiroz@gmail.com", "(12)3412-3412", "(12)3412-3412");
 
 create table tblusuarios (
 	pesid int(11) not null primary key,
